@@ -2,7 +2,7 @@
 
 This repository is prototype of a Tendermint-style Proof-of-Stake consensus system implemented from scratch in Go.
 
-It is intentionally small and interview-friendly. It models validator power, proposer selection, block proposal, prevote, precommit, commit, weighted `+2/3` voting power, basic evidence detection, and slashing/jaailing for double-signing.
+It models validator power, proposer selection, block proposal, prevote, precommit, commit, weighted `+2/3` voting power, basic evidence detection, and slashing/jaailing for double-signing.
 
 ## What This Prototype Implements
 
